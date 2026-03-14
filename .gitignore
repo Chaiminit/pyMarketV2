@@ -1,0 +1,28 @@
+# Rust
+rust_backend/target/
+rust_backend/Cargo.lock
+**/*.rs.bk
+
+# Python
+python_frontend/__pycache__/
+python_frontend/*.py[cod]
+python_frontend/*$py.class
+python_frontend/*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
